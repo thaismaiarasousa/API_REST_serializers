@@ -24,7 +24,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "books",
-    "drf_yasg",  # Adicionando o app "drf_yasg" às aplicações instaladas
+    "drf_yasg",  
 ]
 
 REST_FRAMEWORK = {
